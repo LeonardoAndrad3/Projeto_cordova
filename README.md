@@ -1,3 +1,3 @@
 # Projeto_cordova
 
-Fiz o projeta da telalogin novamente para treinar e prática.
+Fiz o projeto da telalogin novamente para treinar e prática.
